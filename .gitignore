@@ -13,6 +13,7 @@ npm-debug.log*
 
 # Dependency directory
 node_modules/
+yarn.lock
 
 # Compiled binary
 dist/
